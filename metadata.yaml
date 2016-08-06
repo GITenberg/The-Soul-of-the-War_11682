@@ -1,0 +1,29 @@
+_repo: The-Soul-of-the-War_11682
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Gibbs, Philip
+    aliases:
+    - Gibbs, Philip Hamilton, Sir
+    - Gibbs, Phillip
+    birthdate: 1877
+    deathdate: 1962
+    gutenberg_agent_id: '1174'
+    url: http://www.gutenberg.org/2009/agents/1174
+    wikipedia: http://en.wikipedia.org/wiki/Philip_Gibbs
+description: ''
+gutenberg_bookshelf: World War I
+gutenberg_issued: '2004-03-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '11682'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'D501'
+- !lcsh 'World War, 1914-1918 -- Personal narratives'
+- GITenberg
+title: The Soul of the War
+url: http://www.gutenberg.org/ebooks/11682
